@@ -7,6 +7,7 @@
 ## 设计模式
 
 - [代理模式及动态代理](https://github.com/Jimmy2Angel/Blog/issues/2)
+- [装饰模式和代理模式](https://github.com/Jimmy2Angel/Blog/issues/4)
 
 ## 工具使用
 
