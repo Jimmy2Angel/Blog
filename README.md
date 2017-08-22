@@ -1,5 +1,9 @@
 # 个人博客
 
+## JAVASE
+### 集合
+- [HashMap(JAVA8版)](https://github.com/Jimmy2Angel/Blog/issues/7)
+
 ## Spring
 - [Spring容器那点事](https://github.com/Jimmy2Angel/Blog/issues/5)
 
