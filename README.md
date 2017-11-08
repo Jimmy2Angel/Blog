@@ -18,8 +18,9 @@
 
 ## Java 虚拟机
 
-- [《深入理解Java虚拟机》之Java内存区域](https://github.com/Jimmy2Angel/Blog/issues/9)
-- [《深入理解Java虚拟机》之GC](https://github.com/Jimmy2Angel/Blog/issues/10)
+- [《深入理解Java虚拟机》之 Java内存区域](https://github.com/Jimmy2Angel/Blog/issues/9)
+- [《深入理解Java虚拟机》之 GC](https://github.com/Jimmy2Angel/Blog/issues/10)
+- [《深入理解Java虚拟机》之 类加载机制](https://github.com/Jimmy2Angel/Blog/issues/11)
 
 ## 设计模式
 
