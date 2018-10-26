@@ -10,6 +10,10 @@
 - [BlockingQueue](https://github.com/Jimmy2Angel/Blog/issues/12)
 - [ThreadPoolExecutor](https://github.com/Jimmy2Angel/Blog/issues/13)
 
+### 其他
+
+- [常量池及字符串对象的创建](https://github.com/Jimmy2Angel/Blog/issues/15)
+
 ## web 框架
 
 - [Spring容器那点事](https://github.com/Jimmy2Angel/Blog/issues/5)
