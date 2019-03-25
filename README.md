@@ -5,10 +5,11 @@
 - [HashMap(JAVA8版)](https://github.com/Jimmy2Angel/Blog/issues/7)
 - [HashSet和TreeSet](https://github.com/Jimmy2Angel/Blog/issues/8)
 
-### 并发包
+### 并发编程
 
 - [BlockingQueue](https://github.com/Jimmy2Angel/Blog/issues/12)
 - [ThreadPoolExecutor](https://github.com/Jimmy2Angel/Blog/issues/13)
+- [Java并发编程之 synchronized](https://github.com/Jimmy2Angel/Blog/issues/22)
 
 ### 其他
 
