@@ -10,6 +10,7 @@
 - [BlockingQueue](https://github.com/Jimmy2Angel/Blog/issues/12)
 - [ThreadPoolExecutor](https://github.com/Jimmy2Angel/Blog/issues/13)
 - [Java并发编程之 synchronized](https://github.com/Jimmy2Angel/Blog/issues/22)
+- [Java并发编程之 volatile](https://github.com/Jimmy2Angel/Blog/issues/23)
 
 ### 其他
 
