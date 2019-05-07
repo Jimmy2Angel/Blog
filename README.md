@@ -28,6 +28,7 @@
 ## 数据库相关
 
 - [InnoDB B+树索引](https://github.com/Jimmy2Angel/Blog/issues/24)
+- [InnoDB redo log](https://github.com/Jimmy2Angel/Blog/issues/25)
 
 ## 分布式相关
 
