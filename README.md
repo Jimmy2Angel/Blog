@@ -26,6 +26,7 @@
 - [Netty 入门使用总结](https://github.com/Jimmy2Angel/Blog/issues/21)
 - [Netty 服务端启动源码](https://github.com/Jimmy2Angel/Blog/issues/27)
 - [Netty 客户端启动源码](https://github.com/Jimmy2Angel/Blog/issues/28)
+- [Netty Reactor线程启动及执行](https://github.com/Jimmy2Angel/Blog/issues/29)
 
 ## 数据库相关
 
