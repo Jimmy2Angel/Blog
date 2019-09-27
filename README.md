@@ -25,6 +25,7 @@
 - [SpringBoot 源码解析二](https://github.com/Jimmy2Angel/Blog/issues/16)
 - [Netty 入门使用总结](https://github.com/Jimmy2Angel/Blog/issues/21)
 - [Netty 服务端启动源码](https://github.com/Jimmy2Angel/Blog/issues/27)
+- [Netty 客户端启动源码](https://github.com/Jimmy2Angel/Blog/issues/28)
 
 ## 数据库相关
 
